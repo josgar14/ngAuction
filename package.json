@@ -22,7 +22,11 @@
     "@angular/router": "^6.1.0",
     "bootstrap": "^4.3.1",
     "core-js": "2.5.4",
+<<<<<<< HEAD
     "jquery": "^3.4.1",
+=======
+    "jquery": ">=3.4.0",
+>>>>>>> 2d5bd4eda625d5d91cac068508c4caa5b356abee
     "material-design-icons": "^3.0.1",
     "material-icons": "^0.3.1",
     "popper.js": "1.14.7",
